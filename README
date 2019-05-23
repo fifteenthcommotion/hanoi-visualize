@@ -1,0 +1,3 @@
+Simple tower of hanoi visualizer in the terminal. Moves a piece every 0.2 seconds.
+
+Please note that it takes 2^n - 1 moves to relocate a stack of n pieces.
